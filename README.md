@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @TheIceJI
+- 👀 I’m interested in WebGL, ThreeJS
